@@ -12,7 +12,7 @@
 - **CSS**: Used for styling and creating the grid layout
 
 ## Live Demo
-(Live Demo)[https://ahmedrz4.github.io/Grid-master/]
+[Live Demo](https://ahmedrz4.github.io/Grid-master/)
 
 ## Usage
 Clone the repository and open the `index.html` file in any browser to see how the grid system works. You can customize and extend the layout by modifying the CSS file as needed.
